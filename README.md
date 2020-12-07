@@ -8,6 +8,16 @@
     - The average change in "Profit/Losses" between months over the entire period
     - The greatest increase in profits (date and amount) over the entire period
     - The greatest decrease in losses (date and amount) over the entire period
+    ```
+    Financial Analysis
+    ----------------------------
+    Total Months: 86
+    Total: $38382578
+    Average  Change: $-2315.12
+    Greatest Increase in Profits: Feb-2012 ($1926159)
+    Greatest Decrease in Profits: Sep-2013 ($-2196167)
+
+    ```
   - PyPoll is a Python script that analyzes polling data from a hypothetical town. The script calculates each of the following:
     - The total number of votes cast
     - A complete list of candidates who received votes
